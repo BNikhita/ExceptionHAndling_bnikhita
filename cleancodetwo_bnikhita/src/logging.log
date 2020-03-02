@@ -1,0 +1,24 @@
+2020-03-02 08:18:44 INFO  houseconst.HouseTest :18 - House construction with Standard material is calculated
+2020-03-02 08:18:44 DEBUG houseconst.HouseTest :19 - 4800.0
+2020-03-02 08:18:44 WARN  houseconst.HouseTest :20 - No warnings in calculating the standard material house construction cost
+2020-03-02 08:18:44 ERROR houseconst.HouseTest :21 - No errors in calculating the standard material house construction cost
+2020-03-02 08:18:44 INFO  houseconst.HouseTest :24 - House construction with AboveStandard material is calculated
+2020-03-02 08:18:44 DEBUG houseconst.HouseTest :25 - 3000.0
+2020-03-02 08:18:44 WARN  houseconst.HouseTest :26 - No warnings in calculating the AboveStandard material house construction cost
+2020-03-02 08:18:44 ERROR houseconst.HouseTest :27 - No errors in calculating the AboveStandard material house construction cost
+2020-03-02 08:18:44 INFO  houseconst.HouseTest :30 - House construction with HighStandard material is calculated
+2020-03-02 08:18:44 DEBUG houseconst.HouseTest :31 - 5400.0
+2020-03-02 08:18:44 WARN  houseconst.HouseTest :32 - No warnings in calculating the HighStandard material house construction cost
+2020-03-02 08:18:44 ERROR houseconst.HouseTest :33 - No errors in calculating the HighStandard material house construction cost
+2020-03-02 08:18:44 INFO  houseconst.HouseTest :36 - House construction with FullyHighStandard material is calculated
+2020-03-02 08:18:44 DEBUG houseconst.HouseTest :37 - 10000.0
+2020-03-02 08:18:44 WARN  houseconst.HouseTest :38 - No warnings in calculating the FullyHighStandard material house construction cost
+2020-03-02 08:18:44 ERROR houseconst.HouseTest :39 - No errors in calculating the FullyHighStandard material house construction cost
+2020-03-02 08:18:44 INFO  houseconst.InterestTest :20 - Simple interest is calculated
+2020-03-02 08:18:44 DEBUG houseconst.InterestTest :21 - 9000.0
+2020-03-02 08:18:44 WARN  houseconst.InterestTest :22 - No warnings in Simple interest and calculated
+2020-03-02 08:18:44 ERROR houseconst.InterestTest :23 - No errors in Simple interest and calculated
+2020-03-02 08:18:44 INFO  houseconst.InterestTest :27 - Compound interest is calculated
+2020-03-02 08:18:44 DEBUG houseconst.InterestTest :28 - 1333.0992
+2020-03-02 08:18:44 WARN  houseconst.InterestTest :29 - No warnings in Compound interest and calculated
+2020-03-02 08:18:44 ERROR houseconst.InterestTest :30 - No errors in Compound interest and calculated
